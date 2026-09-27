@@ -96,4 +96,4 @@ implemented vs. still planned). See the project report for maze
 generation / solving screenshots.
 
 ## Author
-[Your Name] — [Registration Number] — [Course Name]
+Krishna Agarwal — 26BAI10200 — CSE in AI ML
