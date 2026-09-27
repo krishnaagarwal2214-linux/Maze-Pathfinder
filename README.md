@@ -48,8 +48,8 @@ maze-pathfinder-dsa/
 ## Installation & Setup
 1. Clone this repository:
    ```
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/krishnaagarwal2214-linux/Maze-Pathfinder.git
+   cd Maze-Pathfinder
    ```
 2. (Optional but recommended) create a virtual environment:
    ```
